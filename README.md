@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pranav Miglani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PranavMiglani45
+&label=Profile%20views&color=0e75b6&style=flat" alt="PranavMiglani45
+" /> </p>
 
 - 🔭 I’m currently working on **MERN**
 
